@@ -3,7 +3,12 @@ img{
 }
 h1{
  color: #5e7892; 
+ font-family: font-family: "Playfair Display", serif;
 }
 h2{
     color: #a7b7c6;
+     font-family: font-family: "Playfair Display", serif;
+}
+h3{
+     font-family: font-family: "Playfair Display", serif;
 }
